@@ -1,0 +1,4 @@
+javeriana\ms\rest\model\Trip.class
+javeriana\ms\rest\repository\TripRepository.class
+javeriana\ms\rest\Main.class
+javeriana\ms\rest\controller\TripController.class
