@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ejercicio +calculadora.iml" filepath="$PROJECT_DIR$/.idea/Ejercicio +calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/division/division/division.iml" filepath="$PROJECT_DIR$/division/division/division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplicacion/multiplicacion/multiplicacion.iml" filepath="$PROJECT_DIR$/multiplicacion/multiplicacion/multiplicacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resta/resta/resta.iml" filepath="$PROJECT_DIR$/resta/resta/resta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumador/sumador/sumador.iml" filepath="$PROJECT_DIR$/sumador/sumador/sumador.iml" />
+    </modules>
+  </component>
+</project>
