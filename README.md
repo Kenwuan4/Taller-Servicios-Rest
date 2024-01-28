@@ -1,4 +1,4 @@
-# Taller Servicios Rest
+#Servicios Rest
 
 ### Parte 1
 ##### Proceso para ejecutar el proyecto:
@@ -21,5 +21,3 @@
   - Las operaciónes son: suma, multiplicar, resta, dividir
   - Para ver los registros de cada una de las opraciones ingresar al siguiente link http://localhost:8888/calculadora/"operación"/registros
 
-
-### Link del video: https://drive.google.com/file/d/1fWNa1yC8_B7yRpYKCZWo08mvNdApKFiq/view?usp=sharing
